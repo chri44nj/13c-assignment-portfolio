@@ -392,7 +392,6 @@ button {
 /***** PART B *****/
 .main-b {
   background-color: var(--secondary);
-  height: 90dvh;
 }
 
 .main-b h2,
